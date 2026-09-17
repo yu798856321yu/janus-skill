@@ -234,10 +234,7 @@ powershell -ExecutionPolicy Bypass -File .\scripts\validate-fullstack-skills.ps1
 
 ---
 
-## 十一、深入指南与延伸阅读
 
-欲全面理解 Janus 的架构演进背景、设计推导过程与工程边界，建议深入阅读：
-- [Janus 自适应研发工作流深度指南 (JANUS-GUIDE.md)](JANUS-GUIDE.md)
 
 ---
 
