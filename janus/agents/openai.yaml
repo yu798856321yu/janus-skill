@@ -1,0 +1,6 @@
+interface:
+  display_name: "Janus全栈自适应工作流"
+  short_description: "企业级存量工程端到端自适应研发工作流(仅在显式委托时启动)"
+  default_prompt: "使用 $janus 对该需求进行自动风险定档、闭环实施与真实验证交付。"
+policy:
+  allow_implicit_invocation: false

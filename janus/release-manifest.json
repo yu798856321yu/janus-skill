@@ -1,0 +1,94 @@
+{
+  "schema_version": "2.0.0",
+  "skill_name": "janus",
+  "total_files": 14,
+  "ship_true_count": 14,
+  "ship_false_count": 0,
+  "payload_digest": "8f27e51be0cbbedd8201b6d27990916e600ee519c1fbc3bcc04004225b7cea23",
+  "files": [
+    {
+      "path": "README.md",
+      "category": "documentation",
+      "ship": true,
+      "sha256": "b62273c29ebfb656cd7f9bb84808892c430a1f9cfe4906ee45dedaee12a7b9ce"
+    },
+    {
+      "path": "SKILL.md",
+      "category": "runtime-core",
+      "ship": true,
+      "sha256": "2348e049630475b91971b7bbf08fdad9eeb39ebfa0f77c8f54cf07128c7ba922"
+    },
+    {
+      "path": "agents/openai.yaml",
+      "category": "runtime-core",
+      "ship": true,
+      "sha256": "bec143f6c732738522c5c8e2a67e9602ccb99467cf3184477eeaad52907e0518"
+    },
+    {
+      "path": "references/control-plane.md",
+      "category": "runtime-core",
+      "ship": true,
+      "sha256": "c807f73be86be86809099ca3df1aff7ae0e34547765690fa23186fab7392f43e"
+    },
+    {
+      "path": "references/discovery.md",
+      "category": "runtime-core",
+      "ship": true,
+      "sha256": "5ba78782473b7f61236a77c58698a587b9d1d166c7be5d002b29376cb02256a9"
+    },
+    {
+      "path": "references/methods.md",
+      "category": "runtime-core",
+      "ship": true,
+      "sha256": "e7368b932fc9f25b2a0e212791733c7f4d4ef720d87de747c606f59fa3581f6f"
+    },
+    {
+      "path": "references/mode-fast.md",
+      "category": "runtime-core",
+      "ship": true,
+      "sha256": "14991fb3f4acd27172ef11d62888776998cf38f56ec3121297fed8972491b23c"
+    },
+    {
+      "path": "references/mode-standard.md",
+      "category": "runtime-core",
+      "ship": true,
+      "sha256": "4f8264dbdd1f678d2546d747720e4800e967e1b6fc417c9667bc06d3cd5c7605"
+    },
+    {
+      "path": "references/mode-strict.md",
+      "category": "runtime-core",
+      "ship": true,
+      "sha256": "b0eb7e31a7a2a0073921e0c9176f3d86526cc188d8616fadac80f9fc811e9a21"
+    },
+    {
+      "path": "references/profile-tech-stack.md",
+      "category": "runtime-core",
+      "ship": true,
+      "sha256": "e16b35b681141480cd1e74ec057d397be68a80acd449cbac51f7cf1661ef2924"
+    },
+    {
+      "path": "references/subagents.md",
+      "category": "runtime-core",
+      "ship": true,
+      "sha256": "2697ae5891f79604c31d3be21af73537a35962e9c138efed17633f58e8c8e710"
+    },
+    {
+      "path": "references/verification.md",
+      "category": "runtime-core",
+      "ship": true,
+      "sha256": "1abe407e35774b0ac4155c6e86c551a208eaeea71f1a51188a6c6ea2dbd826cd"
+    },
+    {
+      "path": "release-manifest.json",
+      "category": "metadata",
+      "ship": true,
+      "sha256": "self-manifest-schema-only"
+    },
+    {
+      "path": "scripts/validate-fullstack-skills.ps1",
+      "category": "runtime-core",
+      "ship": true,
+      "sha256": "22d19ae2da98ff74ee4be41dce914333cc4e056be931bd0ab8c0050f6f1d94ce"
+    }
+  ]
+}
