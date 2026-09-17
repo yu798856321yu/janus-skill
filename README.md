@@ -1,4 +1,4 @@
-# Janus 自适应全栈研发工作流技能 (Janus Skill)
+﻿# Janus 自适应全栈研发工作流技能 (Janus Skill)
 
 > **专为存量复杂工程、跨端全栈协同与高可信可审计交付设计的 AI Agent 研发流程技能。**  
 > 规范 AI 编程行为，终结“假绿”、越界盲改与上下文爆炸，以相称的风险档位换取可复核的确定性。
@@ -207,8 +207,6 @@ $janus [具体业务需求或缺陷修复描述]
 │   │   └── subagents.md                    # 子代理调度与权限约束规范
 │   └── scripts/
 │       └── validate-fullstack-skills.ps1   # 技能包静态规范验证与全量自测套件
-├── JANUS-GUIDE.md                          # Janus 研发工作流深度设计指南 (白皮书)
-├── 说明.md                                 # 实践技巧与常见提示词模板
 ├── LICENSE                                 # MIT 开源授权协议
 └── README.md                               # 项目主页文档
 ```
@@ -231,10 +229,6 @@ powershell -ExecutionPolicy Bypass -File .\scripts\validate-fullstack-skills.ps1
 # 3. 发行模式完整闭包哈希校验
 powershell -ExecutionPolicy Bypass -File .\scripts\validate-fullstack-skills.ps1 -Mode Release
 ```
-
----
-
-
 
 ---
 
